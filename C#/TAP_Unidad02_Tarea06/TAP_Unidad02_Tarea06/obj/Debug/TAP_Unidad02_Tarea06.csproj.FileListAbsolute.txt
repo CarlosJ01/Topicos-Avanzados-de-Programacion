@@ -1,0 +1,14 @@
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\bin\Debug\TAP_Unidad02_Tarea06.exe.config
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\bin\Debug\TAP_Unidad02_Tarea06.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\bin\Debug\TAP_Unidad02_Tarea06.pdb
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\obj\Debug\TAP_Unidad02_Tarea06.csprojAssemblyReference.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\obj\Debug\TAP_Unidad02_Tarea06.Form1.resources
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\obj\Debug\TAP_Unidad02_Tarea06.Properties.Resources.resources
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\obj\Debug\TAP_Unidad02_Tarea06.csproj.GenerateResource.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\obj\Debug\TAP_Unidad02_Tarea06.csproj.CoreCompileInputs.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\obj\Debug\TAP_Unidad02_Tarea06.csproj.CopyComplete
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\obj\Debug\TAP_Unidad02_Tarea06.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Tarea06\TAP_Unidad02_Tarea06\obj\Debug\TAP_Unidad02_Tarea06.pdb

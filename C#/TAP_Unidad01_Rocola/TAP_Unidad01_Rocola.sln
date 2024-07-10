@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAP_Unidad01_Rocola", "TAP_Unidad01_Rocola\TAP_Unidad01_Rocola.csproj", "{38E5C73F-FF9D-4761-BEAA-DF2FC4244079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E5C73F-FF9D-4761-BEAA-DF2FC4244079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E5C73F-FF9D-4761-BEAA-DF2FC4244079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E5C73F-FF9D-4761-BEAA-DF2FC4244079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E5C73F-FF9D-4761-BEAA-DF2FC4244079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEFC5F44-31D8-48A0-8950-C3DFFDEF0EC1}
+	EndGlobalSection
+EndGlobal

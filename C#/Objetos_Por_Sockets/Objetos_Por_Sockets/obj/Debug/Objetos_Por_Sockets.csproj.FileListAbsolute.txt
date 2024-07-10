@@ -1,0 +1,10 @@
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\bin\Debug\Objetos_Por_Sockets.exe.config
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\bin\Debug\Objetos_Por_Sockets.exe
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\bin\Debug\Objetos_Por_Sockets.pdb
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\obj\Debug\Objetos_Por_Sockets.csprojAssemblyReference.cache
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\obj\Debug\Objetos_Por_Sockets.Form1.resources
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\obj\Debug\Objetos_Por_Sockets.Properties.Resources.resources
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\obj\Debug\Objetos_Por_Sockets.csproj.GenerateResource.cache
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\obj\Debug\Objetos_Por_Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\obj\Debug\Objetos_Por_Sockets.exe
+C:\Users\Carlos J\source\repos\Objetos_Por_Sockets\Objetos_Por_Sockets\obj\Debug\Objetos_Por_Sockets.pdb

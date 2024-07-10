@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{50B139F9-4120-44AE-9B46-DEEE41A8B1E6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TAP_Unidad03_Practica03</RootNamespace>
+    <AssemblyName>TAP_Unidad03_Practica03</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\MySQL Visual Studio\15.0v461\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="InputKey">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\InputMessegges C#\InputKey.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\LibsPDF\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\MySQL Visual Studio\15.0v461\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data.entity">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\MySQL Visual Studio\15.0v461\mysql.data.entity.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Debugger">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\MySQL Visual Studio\15.0v461\MySql.Debugger.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Debugger.VisualStudio">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\MySQL Visual Studio\15.0v461\MySql.Debugger.VisualStudio.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Parser">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\MySQL Visual Studio\15.0v461\MySql.Parser.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.visualstudio">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\MySQL Visual Studio\15.0v461\mysql.visualstudio.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.web">
+      <HintPath>..\..\..\..\Desktop\Topicos Avanzados de Programacion\MySQL Visual Studio\15.0v461\mysql.web.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alimentar BD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alimentar BD.Designer.cs">
+      <DependentUpon>Alimentar BD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosAlumno.Designer.cs">
+      <DependentUpon>DatosAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatosEgresado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosEgresado.Designer.cs">
+      <DependentUpon>DatosEgresado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarAlumno.Designer.cs">
+      <DependentUpon>EliminarAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaCarreras.Designer.cs">
+      <DependentUpon>ListaCarreras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Alumno.cs" />
+    <Compile Include="Models\Calificaciones.cs" />
+    <Compile Include="Models\Carrera.cs" />
+    <Compile Include="Models\Egresado.cs" />
+    <Compile Include="Models\ManejadorBD.cs" />
+    <Compile Include="Models\Materia.cs" />
+    <Compile Include="Models\Promedio.cs" />
+    <Compile Include="MostrarCalificaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MostrarCalificaciones.Designer.cs">
+      <DependentUpon>MostrarCalificaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoAlumno.Designer.cs">
+      <DependentUpon>NuevoAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\Alumnos.cs" />
+    <Compile Include="Reports\Egresados.cs" />
+    <EmbeddedResource Include="Alimentar BD.resx">
+      <DependentUpon>Alimentar BD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosAlumno.resx">
+      <DependentUpon>DatosAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosEgresado.resx">
+      <DependentUpon>DatosEgresado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarAlumno.resx">
+      <DependentUpon>EliminarAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaCarreras.resx">
+      <DependentUpon>ListaCarreras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MostrarCalificaciones.resx">
+      <DependentUpon>MostrarCalificaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoAlumno.resx">
+      <DependentUpon>NuevoAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ponys.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_original.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

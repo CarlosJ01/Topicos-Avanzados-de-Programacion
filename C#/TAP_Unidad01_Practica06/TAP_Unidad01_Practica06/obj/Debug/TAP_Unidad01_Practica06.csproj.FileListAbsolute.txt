@@ -1,0 +1,14 @@
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\bin\Debug\TAP_Unidad01_Practica06.exe.config
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\bin\Debug\TAP_Unidad01_Practica06.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\bin\Debug\TAP_Unidad01_Practica06.pdb
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\obj\Debug\TAP_Unidad01_Practica06.csprojAssemblyReference.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\obj\Debug\TAP_Unidad01_Practica06.csproj.CoreCompileInputs.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\obj\Debug\TAP_Unidad01_Practica06.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\obj\Debug\TAP_Unidad01_Practica06.pdb
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\bin\Debug\TAP_Unidad01_Practica06.exe.config
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\bin\Debug\TAP_Unidad01_Practica06.exe
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\bin\Debug\TAP_Unidad01_Practica06.pdb
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\obj\Debug\TAP_Unidad01_Practica06.csprojAssemblyReference.cache
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\obj\Debug\TAP_Unidad01_Practica06.csproj.CoreCompileInputs.cache
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\obj\Debug\TAP_Unidad01_Practica06.exe
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad01_Practica06\TAP_Unidad01_Practica06\obj\Debug\TAP_Unidad01_Practica06.pdb

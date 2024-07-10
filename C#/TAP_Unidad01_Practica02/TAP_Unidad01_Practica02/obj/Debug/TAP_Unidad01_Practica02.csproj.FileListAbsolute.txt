@@ -1,0 +1,10 @@
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\obj\Debug\TAP_Unidad01_Practica02.csprojAssemblyReference.cache
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\obj\Debug\TAP_Unidad01_Practica02.Form1.resources
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\obj\Debug\TAP_Unidad01_Practica02.Properties.Resources.resources
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\obj\Debug\TAP_Unidad01_Practica02.csproj.GenerateResource.cache
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\obj\Debug\TAP_Unidad01_Practica02.csproj.CoreCompileInputs.cache
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\bin\Debug\TAP_Unidad01_Practica02.exe.config
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\bin\Debug\TAP_Unidad01_Practica02.exe
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\bin\Debug\TAP_Unidad01_Practica02.pdb
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\obj\Debug\TAP_Unidad01_Practica02.exe
+c:\users\carlos j\source\repos\TAP_Unidad01_Practica02\TAP_Unidad01_Practica02\obj\Debug\TAP_Unidad01_Practica02.pdb

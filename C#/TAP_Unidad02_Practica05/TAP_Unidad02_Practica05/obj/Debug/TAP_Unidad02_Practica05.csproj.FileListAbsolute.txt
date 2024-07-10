@@ -1,0 +1,20 @@
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\bin\Debug\TAP_Unidad02_Practica05.exe.config
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\bin\Debug\TAP_Unidad02_Practica05.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\bin\Debug\TAP_Unidad02_Practica05.pdb
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.Form1.resources
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.Properties.Resources.resources
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.csproj.GenerateResource.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.csproj.CoreCompileInputs.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.pdb
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.csprojAssemblyReference.cache
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\bin\Debug\TAP_Unidad02_Practica05.exe.config
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\bin\Debug\TAP_Unidad02_Practica05.exe
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\bin\Debug\TAP_Unidad02_Practica05.pdb
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.csprojAssemblyReference.cache
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.Form1.resources
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.Properties.Resources.resources
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.csproj.GenerateResource.cache
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.csproj.CoreCompileInputs.cache
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.exe
+C:\Users\Carlos J\Documents\Instituto Tecnologico de Morelia\ISC\Semestres\4° Semestre\Topicos Avanzados de Programacion\Programas\C#\TAP_Unidad02_Practica05\TAP_Unidad02_Practica05\obj\Debug\TAP_Unidad02_Practica05.pdb

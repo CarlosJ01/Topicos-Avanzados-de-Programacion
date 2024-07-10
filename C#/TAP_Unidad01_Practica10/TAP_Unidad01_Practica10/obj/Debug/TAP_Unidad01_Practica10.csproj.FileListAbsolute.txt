@@ -1,0 +1,14 @@
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\bin\Debug\TAP_Unidad01_Practica10.exe.config
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\bin\Debug\TAP_Unidad01_Practica10.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\bin\Debug\TAP_Unidad01_Practica10.pdb
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\obj\Debug\TAP_Unidad01_Practica10.csprojAssemblyReference.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\obj\Debug\TAP_Unidad01_Practica10.Form1.resources
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\obj\Debug\TAP_Unidad01_Practica10.Properties.Resources.resources
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\obj\Debug\TAP_Unidad01_Practica10.csproj.GenerateResource.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\obj\Debug\TAP_Unidad01_Practica10.csproj.CoreCompileInputs.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\obj\Debug\TAP_Unidad01_Practica10.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\obj\Debug\TAP_Unidad01_Practica10.pdb
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carlos J\source\repos\TAP_Unidad01_Practica10\TAP_Unidad01_Practica10\obj\Debug\TAP_Unidad01_Practica10.csproj.CopyComplete

@@ -1,0 +1,128 @@
+[
+  {
+    "Tipo": 1,
+    "Producto": {
+      "Nombre": "Comic",
+      "Cantidad": 0,
+      "Imagen": "Imagen01",
+      "Precio": 150.0
+    },
+    "Vendedor": {
+      "Nombre": "Alverto",
+      "Correo": "Alverto01@gmail.com",
+      "Reputacion": 9.5
+    }
+  },
+  {
+    "Tipo": 0,
+    "Producto": {
+      "Nombre": "Comic Hang the Dj",
+      "Cantidad": 0,
+      "Imagen": "Imagen02",
+      "Precio": 200.0
+    },
+    "Vendedor": {
+      "Nombre": "Alverto",
+      "Correo": "Alverto01@gmail.com",
+      "Reputacion": 9.5
+    }
+  },
+  {
+    "Tipo": 1,
+    "Producto": {
+      "Nombre": "Neo Comic",
+      "Cantidad": 2,
+      "Imagen": "Imagen03",
+      "Precio": 100.0
+    },
+    "Vendedor": {
+      "Nombre": "Alverto",
+      "Correo": "Alverto01@gmail.com",
+      "Reputacion": 9.5
+    }
+  },
+  {
+    "Tipo": 0,
+    "Producto": {
+      "Nombre": "Comic",
+      "Cantidad": 3,
+      "Imagen": "Imagen04",
+      "Precio": 300.0
+    },
+    "Vendedor": {
+      "Nombre": "Alverto",
+      "Correo": "Alverto01@gmail.com",
+      "Reputacion": 9.5
+    }
+  },
+  {
+    "Tipo": 1,
+    "Producto": {
+      "Nombre": "Comic02",
+      "Cantidad": 20,
+      "Imagen": "Imagen01",
+      "Precio": 100.0
+    },
+    "Vendedor": {
+      "Nombre": "Alverto",
+      "Correo": "Alverto01@gmail.com",
+      "Reputacion": 9.5
+    }
+  },
+  {
+    "Tipo": 1,
+    "Producto": {
+      "Nombre": "Comic 100",
+      "Cantidad": 1,
+      "Imagen": "Imagen03",
+      "Precio": 100.0
+    },
+    "Vendedor": {
+      "Nombre": "Alverto",
+      "Correo": "Alverto01@gmail.com",
+      "Reputacion": 9.5
+    }
+  },
+  {
+    "Tipo": 1,
+    "Producto": {
+      "Nombre": "Comic Men Against Fire",
+      "Cantidad": 97,
+      "Imagen": "Imagen05",
+      "Precio": 75.0
+    },
+    "Vendedor": {
+      "Nombre": "Alverto",
+      "Correo": "Alverto01@gmail.com",
+      "Reputacion": 9.5
+    }
+  },
+  {
+    "Tipo": 0,
+    "Producto": {
+      "Nombre": "Comic #24",
+      "Cantidad": 199,
+      "Imagen": "Imagen03",
+      "Precio": 300.0
+    },
+    "Vendedor": {
+      "Nombre": "Alverto",
+      "Correo": "Alverto01@gmail.com",
+      "Reputacion": 9.5
+    }
+  },
+  {
+    "Tipo": 1,
+    "Producto": {
+      "Nombre": "Comic #19",
+      "Cantidad": 15,
+      "Imagen": "Imagen04",
+      "Precio": 100.0
+    },
+    "Vendedor": {
+      "Nombre": "Alverto",
+      "Correo": "Alverto01@gmail.com",
+      "Reputacion": 9.5
+    }
+  }
+]

@@ -1,0 +1,9 @@
+C:\Users\Carlos J\source\repos\Examen_Unidad02\Examen_Unidad02\bin\Debug\Examen_Unidad02.exe.config
+C:\Users\Carlos J\source\repos\Examen_Unidad02\Examen_Unidad02\bin\Debug\Examen_Unidad02.exe
+C:\Users\Carlos J\source\repos\Examen_Unidad02\Examen_Unidad02\bin\Debug\Examen_Unidad02.pdb
+C:\Users\Carlos J\source\repos\Examen_Unidad02\Examen_Unidad02\obj\Debug\Examen_Unidad02.csprojAssemblyReference.cache
+C:\Users\Carlos J\source\repos\Examen_Unidad02\Examen_Unidad02\obj\Debug\Examen_Unidad02.Properties.Resources.resources
+C:\Users\Carlos J\source\repos\Examen_Unidad02\Examen_Unidad02\obj\Debug\Examen_Unidad02.csproj.GenerateResource.cache
+C:\Users\Carlos J\source\repos\Examen_Unidad02\Examen_Unidad02\obj\Debug\Examen_Unidad02.csproj.CoreCompileInputs.cache
+C:\Users\Carlos J\source\repos\Examen_Unidad02\Examen_Unidad02\obj\Debug\Examen_Unidad02.exe
+C:\Users\Carlos J\source\repos\Examen_Unidad02\Examen_Unidad02\obj\Debug\Examen_Unidad02.pdb

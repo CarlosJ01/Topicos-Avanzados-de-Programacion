@@ -1,0 +1,10 @@
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\bin\Debug\TAP_Unidad02_Practica04.exe.config
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\bin\Debug\TAP_Unidad02_Practica04.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\bin\Debug\TAP_Unidad02_Practica04.pdb
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\obj\Debug\TAP_Unidad02_Practica04.csprojAssemblyReference.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\obj\Debug\TAP_Unidad02_Practica04.Form1.resources
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\obj\Debug\TAP_Unidad02_Practica04.Properties.Resources.resources
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\obj\Debug\TAP_Unidad02_Practica04.csproj.GenerateResource.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\obj\Debug\TAP_Unidad02_Practica04.csproj.CoreCompileInputs.cache
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\obj\Debug\TAP_Unidad02_Practica04.exe
+C:\Users\Carlos J\source\repos\TAP_Unidad02_Practica04\TAP_Unidad02_Practica04\obj\Debug\TAP_Unidad02_Practica04.pdb
